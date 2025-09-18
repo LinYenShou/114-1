@@ -4,3 +4,4 @@
 系級：科技系二年級  
 課程筆記區、作業連結區、專題連結區  
 [HW1](https://github.com/LinYenShou/114-1/blob/main/HW1.ipynb)日常支出速算與分擔  
+[HW2]()日常支出速算與分擔gradio

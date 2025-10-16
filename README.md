@@ -6,3 +6,5 @@
 [HW1-1](https://github.com/LinYenShou/114-1/blob/main/HW1.ipynb)日常支出速算與分擔  
 [HW1-2](https://github.com/LinYenShou/114-1/blob/main/HW1_2gradio.ipynb)日常支出速算與分擔(gradio)  
 [HW2](https://github.com/LinYenShou/114-1/blob/main/HW2_成績一本通.ipynb)成績一本通  
+[HW3](https://github.com/LinYenShou/114-1/blob/main/蕃茄鐘.ipynb)蕃茄鐘  
+[HW4]()  

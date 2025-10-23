@@ -7,4 +7,5 @@
 [HW1-2](https://github.com/LinYenShou/114-1/blob/main/HW1_2gradio.ipynb)日常支出速算與分擔(gradio)  
 [HW2](https://github.com/LinYenShou/114-1/blob/main/HW2_成績一本通.ipynb)成績一本通  
 [HW3](https://github.com/LinYenShou/114-1/blob/main/蕃茄鐘.ipynb)蕃茄鐘  
-[HW4]()  
+[HW4](https://github.com/LinYenShou/114-1/blob/main/%E7%88%AC%E8%9F%B2%E6%B8%AC%E8%A9%A6.ipynb)爬蟲測試  
+
